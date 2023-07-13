@@ -183,5 +183,6 @@ dropdown.on("change", function() {
 const initialSampleId = samples[0].id;
 createBarChart(initialSampleId);
 createBubbleChart(initialSampleId);
+createGaugeChart(initialSampleId)
 displayMetadata(initialSampleId);
 });
