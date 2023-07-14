@@ -6,6 +6,8 @@ The Belly Button Biodiversity dataset catalogs the microbes that colonize human 
 
 [Bellybutton Biodiversity (sarsteg.github.io)](https://sarsteg.github.io/belly-button-biodiversity-javascript-visuals/)
 
+![Dashboard](https://github.com/sarsteg/belly-button-biodiversity-javascript-visuals/blob/62f309738d1badbb2328a004152a8a3596bca6e4/images/dashboard.png)
+
 ### Author
 
 Sarah Stegall-Rodriguez
